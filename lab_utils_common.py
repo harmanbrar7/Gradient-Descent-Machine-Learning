@@ -1,6 +1,5 @@
 """ 
 lab_utils_common.py
-    functions common to all optional labs, Course 1, Week 2 
 """
 
 import numpy as np
